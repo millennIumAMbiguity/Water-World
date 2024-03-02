@@ -1,0 +1,42 @@
+{
+	"name": "water_world:temple/wood/bridge/low",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_cap_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_cap_2",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_cap_3",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_cap_4",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}

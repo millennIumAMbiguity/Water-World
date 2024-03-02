@@ -1,0 +1,21 @@
+{
+	"name": "water_world:temple/wood/bridge/low",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:empty_pool_element"
+			}
+		},
+		{
+			"weight": 8,
+			"element": {
+				"location": "water_world:temple/wood/bridge/low/end_connector_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}

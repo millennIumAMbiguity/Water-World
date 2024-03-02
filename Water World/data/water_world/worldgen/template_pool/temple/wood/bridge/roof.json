@@ -1,0 +1,24 @@
+{
+	"name": "water_world:temple/wood/border/roof",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/roof_2",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}

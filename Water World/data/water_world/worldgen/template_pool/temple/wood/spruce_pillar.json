@@ -1,0 +1,105 @@
+{
+	"name": "water_world:temple/wood/spruce_pillar",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_2",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_3",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_4",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_5",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_6",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_7",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_8",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_9",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_10",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/pillar/spruce_11",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}

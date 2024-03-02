@@ -1,0 +1,48 @@
+{
+	"name": "water_world:temple/wood/bridge/high",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:empty_pool_element"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"location": "water_world:temple/wood/bridge/high/short_straight",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 5,
+			"element": {
+				"location": "water_world:temple/wood/bridge/connector_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/bridge/high/split",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"location": "water_world:temple/wood/bridge/high/split_t",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}

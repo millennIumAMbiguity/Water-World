@@ -1,0 +1,33 @@
+{
+	"name": "water_world:temple/border_edge",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/edge_1",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"location": "water_world:temple/wood/border/edge_2",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"location": "water_world:temple/wood/border/edge_3",
+				"processors": "minecraft:empty",
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid"
+			}
+		}
+	]
+}
