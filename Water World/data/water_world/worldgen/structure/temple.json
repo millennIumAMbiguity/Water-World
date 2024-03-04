@@ -3,7 +3,7 @@
 	"spawn_overrides": {},
 	"type": "minecraft:jigsaw",
 	"start_pool": "water_world:temple/center",
-	"size": 20,
+	"size": 7,
 	"step": "surface_structures",
 	"start_height": {
 		"absolute": 128
